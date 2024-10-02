@@ -225,7 +225,7 @@ def get_inventory():
     return jsonify(inventory)
 
 @app.route('/api/get_inventory', methods=['GET'])
-def get_inventory():
+def get_inventorydata():
     conn = sqlite3.connect('inventory.db')
     cursor = conn.cursor()
     cursor.execute('SELECT * FROM inventory')
