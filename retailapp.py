@@ -245,5 +245,4 @@ def generate_insights_route():
 
 if __name__ == '__main__':
     create_tables()
-    load_data()
     app.run(debug=True)
