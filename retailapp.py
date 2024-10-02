@@ -224,6 +224,15 @@ def get_inventory():
     conn.close()
     return jsonify(inventory)
 
+@app.route('/api/get_inventory', methods=['GET'])
+def get_inventory():
+    conn = sqlite3.connect('inventory.db')
+    cursor = conn.cursor()
+    cursor.execute('SELECT * FROM inventory')
+    rows = cursor.fetchall()
+    conn.close()
+    return jsonify(rows
+                   
 @app.route('/api/predict-demand', methods=['POST'])
 def predict_demand_route():
     data = request.json
