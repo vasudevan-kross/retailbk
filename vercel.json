@@ -1,5 +1,9 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/api/index" }
-  ]
+"builds": [
+    { "src": "*.py", "use": "@vercel/python" }
+  ],
+  "redirects": [
+    { "source": "/", "destination": "/retailapp.py" }
+  ]  
+
 }
