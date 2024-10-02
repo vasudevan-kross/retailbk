@@ -231,7 +231,7 @@ def get_inventory():
     cursor.execute('SELECT * FROM inventory')
     rows = cursor.fetchall()
     conn.close()
-    return jsonify(rows
+    return jsonify(rows)
                    
 @app.route('/api/predict-demand', methods=['POST'])
 def predict_demand_route():
