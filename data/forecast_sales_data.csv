@@ -1,0 +1,7 @@
+Date,Product_ID,Product_Name,Sales,Stock_Level,Economic_Indicator
+01-01-2023,101,Smartphone A,100,500,1.02
+02-01-2023,101,Smartphone A,120,480,1.03
+03-01-2023,101,Smartphone A,110,460,1.01
+01-01-2023,102,Laptop B,200,300,1.05
+02-01-2023,102,Laptop B,220,280,1.06
+03-01-2023,102,Laptop B,210,260,1.04

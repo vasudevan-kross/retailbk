@@ -1,0 +1,4 @@
+Date,Product Category,Region,Sales Volume,Sales Value,Promotion,Economic Indicator,Seasonality
+01-01-2023,Electronics,North,500,100,0,2.50%,0
+01-02-2023,Appliances,South,350,75,1,2.60%,0
+01-03-2023,Electronics,East,600,120,0,2.40%,1

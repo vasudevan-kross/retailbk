@@ -1,0 +1,51 @@
+date,product_id,product_name,sales,price,economic_conditions
+2023-01-01,1,Chroma Ultra HD TV,100,500.00,Stable
+2023-01-02,2,Chroma 4K Smart TV,110,700.00,Stable
+2023-01-03,3,Chroma Home Theater System,90,300.00,Recession
+2023-01-04,4,Chroma Air Conditioner,80,400.00,Growth
+2023-01-05,5,Chroma Washing Machine,120,250.00,Stable
+2023-01-06,6,Chroma Refrigerator,95,600.00,Recession
+2023-01-07,7,Chroma Microwave Oven,130,150.00,Growth
+2023-01-08,8,Chroma Blender,85,80.00,Stable
+2023-01-09,9,Chroma Coffee Maker,75,120.00,Growth
+2023-01-10,10,Chroma Vacuum Cleaner,60,220.00,Stable
+2023-01-11,11,Chroma Electric Kettle,140,40.00,Recession
+2023-01-12,12,Chroma Food Processor,110,180.00,Growth
+2023-01-13,13,Chroma Induction Cooktop,115,100.00,Stable
+2023-01-14,14,Chroma Digital Camera,70,800.00,Recession
+2023-01-15,15,Chroma Laptop,130,1000.00,Growth
+2023-01-16,16,Chroma Gaming Console,95,400.00,Stable
+2023-01-17,17,Chroma Smart Speaker,140,150.00,Recession
+2023-01-18,18,Chroma Fitness Tracker,90,120.00,Growth
+2023-01-19,19,Chroma Tablet,100,300.00,Stable
+2023-01-20,20,Chroma Smartwatch,110,250.00,Recession
+2023-01-21,21,Chroma Bluetooth Headphones,85,80.00,Growth
+2023-01-22,22,Chroma Soundbar,120,350.00,Stable
+2023-01-23,23,Chroma Portable Speaker,75,90.00,Growth
+2023-01-24,24,Chroma Home Security Camera,60,200.00,Recession
+2023-01-25,25,Chroma Air Fryer,130,150.00,Growth
+2023-01-26,26,Chroma Electric Griddle,85,70.00,Stable
+2023-01-27,27,Chroma Electric Toothbrush,140,50.00,Recession
+2023-01-28,28,Chroma Hair Dryer,110,80.00,Growth
+2023-01-29,29,Chroma Iron,90,60.00,Stable
+2023-01-30,30,Chroma Humidifier,95,120.00,Growth
+2023-01-31,31,Chroma Air Purifier,75,200.00,Recession
+2023-02-01,32,Chroma Electric Stove,100,250.00,Growth
+2023-02-02,33,Chroma 3D Printer,110,1200.00,Stable
+2023-02-03,34,Chroma E-Reader,130,150.00,Recession
+2023-02-04,35,Chroma Smart Thermostat,85,250.00,Growth
+2023-02-05,36,Chroma DSLR Camera,95,900.00,Stable
+2023-02-06,37,Chroma Noise Cancelling Headphones,80,350.00,Growth
+2023-02-07,38,Chroma Digital Photo Frame,110,200.00,Recession
+2023-02-08,39,Chroma USB Hub,120,30.00,Growth
+2023-02-09,40,Chroma Power Bank,90,50.00,Stable
+2023-02-10,41,Chroma Car Vacuum,85,90.00,Growth
+2023-02-11,42,Chroma Gaming Mouse,140,70.00,Recession
+2023-02-12,43,Chroma Ergonomic Chair,100,300.00,Growth
+2023-02-13,44,Chroma Mechanical Keyboard,110,120.00,Stable
+2023-02-14,45,Chroma Monitor,95,250.00,Recession
+2023-02-15,46,Chroma External Hard Drive,130,100.00,Growth
+2023-02-16,47,Chroma WebCam,90,60.00,Stable
+2023-02-17,48,Chroma Fitness Bike,75,400.00,Growth
+2023-02-18,49,Chroma Digital Watch,100,180.00,Recession
+2023-02-19,50,Chroma Drone,110,500.00,Growth
